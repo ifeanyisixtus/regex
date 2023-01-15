@@ -9,10 +9,10 @@ function VisaCardNumber(inputtxt) {
 function validateVisaCardNumber(cardnumber) {
   let cardType = "invalid visa card, please enter a valid card number";
   if (VisaCardNumber(cardnumber)) {
-    cardType = " valid visa card";
+    cardType = " valid visa card number";
   }
   return cardType;
 }
 
-const valid = validateVisaCardNumber(41111111111111);
-console.log(valid);
+const validate = validateVisaCardNumber(4111111111111111);
+console.log(validate);
