@@ -14,5 +14,5 @@ function validateVisaCardNumber(cardnumber) {
   return cardType;
 }
 
-const valid = validateVisaCardNumber(400234456567894);
+const valid = validateVisaCardNumber(41111111111111);
 console.log(valid);

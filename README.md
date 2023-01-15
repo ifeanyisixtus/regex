@@ -1,5 +1,6 @@
+THESE ARE THE BRIEF DESCRIPTION THAT EXPLAINS THE REGEX PATTERN THAT I USED WHILE VALIDATING MY VISA CARD NUMBER
+
 Useful Regex for Validating Proper Visa Card Numbers
-One of the most frustrating issues an e-commerce business owner can encounter is having a customer provide invalid payment information. Missed payments, delayed deliveries, no one has time for that. If an e-commerce platform is not properly programmed to handle and recognize potential errors with manually-entered credit card numbers, these kinds of issues are bound to happen. The Credit Card Regex can help with validating your forms.
 
 Summary
 Each credit card company uses different number structures, and it is important in your e-commerce platform to be able to match the expected credit card company with the appropriate card number structure. For each type of credit card you accept on your platform, you will need to include the appropriate Regex function to validate it. In this post, we'll go through the validation for the Visa card, which is the most commonly used card out there.
